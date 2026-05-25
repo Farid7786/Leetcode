@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Farid7786/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Farid7786/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
