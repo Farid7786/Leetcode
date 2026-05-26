@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Farid7786/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
+| [1929-concatenation-of-array](https://github.com/Farid7786/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Farid7786/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Farid7786/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Farid7786/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
