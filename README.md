@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Farid7786/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Farid7786/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/Farid7786/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Farid7786/Leetcode/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Farid7786/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
