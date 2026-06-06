@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Farid7786/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Farid7786/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Farid7786/Leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Farid7786/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/Farid7786/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Farid7786/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Farid7786/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Farid7786/Leetcode/tree/master/0046-permutations) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Farid7786/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
