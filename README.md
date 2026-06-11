@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Farid7786/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Farid7786/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Farid7786/Leetcode/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/Farid7786/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Farid7786/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Farid7786/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Farid7786/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Farid7786/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Farid7786/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Farid7786/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Farid7786/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Farid7786/Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -75,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Farid7786/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Farid7786/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
