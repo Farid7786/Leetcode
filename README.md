@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Farid7786/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Farid7786/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Farid7786/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Farid7786/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Farid7786/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Farid7786/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Farid7786/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Farid7786/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Farid7786/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Farid7786/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Farid7786/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Farid7786/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
