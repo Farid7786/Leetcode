@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Farid7786/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Farid7786/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Farid7786/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Farid7786/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Farid7786/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Farid7786/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Farid7786/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
